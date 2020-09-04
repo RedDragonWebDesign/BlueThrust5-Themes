@@ -10,11 +10,15 @@ I made this a separate repository because it is very big. It is 300MB. Folks can
 
 I am not including Ribbon WoW here because that is the default theme in core. The files for Ribbon WoW can be found in the other repository.
 
-## This project is a fork of BlueThrust 4
+## This is a fork of BlueThrust 4
 
 BlueThrust5 is a fork of the abandonware project BlueThrust4. I am not the original creator of these themes. All themes were taken from [this page on the BlueThrust website](https://bluethrust.com/themes).
 
 As I make code changes to BlueThrust5, I will make changes to these themes too, so that everything stays compatible.
+
+## What do the themes look like?
+
+You can browse [this page on the original author's website](https://bluethrust.com/themes) to see demos for all 29 themes.
 
 ## Setup Guide
 
@@ -32,6 +36,14 @@ As I make code changes to BlueThrust5, I will make changes to these themes too, 
 
 7) Enjoy your new theme!
 
+## Bugs, Security Issues, Feature Requests
+
+Please report all bugs, security issues, and feature requests.
+
+Create a GitHub account, then [create an issue](https://github.com/RedDragonWebDesign/BlueThrust5-Themes).
+
 ## Screenshots
 
 ![](screenshot1.png)
+
+![](screenshot2.png)
