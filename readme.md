@@ -42,6 +42,17 @@ Please report all bugs, security issues, and feature requests.
 
 Create a GitHub account, then [create an issue](https://github.com/RedDragonWebDesign/BlueThrust5-Themes).
 
+## I am available for hire
+
+Do you just want these scripts up and running? Not interested in the technical details? I'm available for hire. I can help with any/all of the following:
+
+- Buying a domain name
+- Buying web hosting
+- Installing and configuring BlueThrust5
+- Making custom modifications to BlueThrust5
+
+[Click here](https://www.reddragonwebdesign.com/contact/) to send me an email.
+
 ## Screenshots
 
 ![](screenshot1.png)
