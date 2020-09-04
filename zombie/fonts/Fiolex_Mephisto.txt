@@ -1,0 +1,36 @@
+
+FIOLEX MEPHISTO v.1.0 - 03/2008
+
+*****************************************************************
+
+(c) 2008 Fiolex Software - www.fiolex.com
+
+FONT INFORMATION
+----------------
+
+Windows Truetype Font.
+
+Includes:
+
+- all basic Latin/Western Europe accents
+- Euro sign
+- most common special characters and signs
+
+Additional special characters:
+
+Astrology, Tarot and other mythical symbols.
+(use the Windows Character Map to insert them)
+
+LICENSE
+-------
+
+The Font is Freeware, both for personal and commercial use.
+It may be freely copied and redistributed "as it is" and FOR FREE.
+Please include this Readme-file to all downloads.
+Link and credit are welcome, but not requested.
+Sublicensing and resell not allowed without prior agreement.
+
+CONTACT
+-------
+
+For further information contact us at: info@fiolex.com

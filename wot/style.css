@@ -1,0 +1,294 @@
+html {
+	height: 100%;
+}
+
+body {
+	
+	margin: 0px;
+	padding: 0px;
+	background-color: #0f0f0f;	
+	font-family: verdana, sans-serif;
+	font-size: 12px;
+	width: 100%;
+	min-width: 990px;
+	color: white;
+	height: 100%;
+}
+
+a {
+	color: #aeae97;
+	text-decoration: none;	
+}
+
+a:hover {
+	color: #838371;	
+}
+         
+
+.tankBG {
+	min-width: 100%;
+	height: 520px;
+	position: fixed;
+	top: 80px;
+	background-image: url('images/layout/tankbg.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	border-bottom: solid #443f32 3px;
+}
+
+.tankBGBottomLeft {
+	position: absolute;
+	bottom: -3px;
+	left: 0px;
+	width: 25%;
+	background-color: #0f0f0f;
+	border-top: solid #443f32 3px;
+	height: 50px;	
+}
+
+.tankBGBottomLeftIndent {
+	position: absolute;
+	right: -51px;
+	bottom: 0px;
+	background: url('images/layout/tankbg-indent.png') 0px 0px;	
+	width: 51px;
+	height: 53px;
+}
+
+.tankBGBottomRight {
+	position: absolute;
+	bottom: -3px;
+	right: 0px;
+	width: 25%;
+	background-color: #0f0f0f;
+	border-top: solid #443f32 3px;
+	height: 50px;	
+}
+
+.tankBGBottomRightIndent {
+	position: absolute;
+	left: -51px;
+	bottom: 0px;
+	background: url('images/layout/tankbg-indent.png') -51px 0px;	
+	width: 51px;
+	height: 53px;
+}
+
+.gridBG {
+	position: fixed;
+	width: 100%;
+	min-width: 990px;
+	min-height: 100%;
+	background-image: url('images/layout/gridbg.png');
+}
+
+.topBar {
+	background-image: url('images/layout/topbar.png');
+	width: 100%;
+	min-width: 990px;
+	height: 80px;
+	position: fixed;
+	top: 0px;
+	z-index: 99999;
+	border-bottom: solid rgba(68,63,50, .4) 1px;
+	box-shadow: 0px 3px 3px 0px rgba(0,0,0,.4);
+	overflow: hidden;
+}
+
+.loginDiv {
+	float: right;
+	padding-right: 20px;
+	min-width: 25%;	
+}
+
+.loginFormGroup {
+	display: inline-block;
+	margin: 5px 10px;
+	font-family: 'Quantico', verdana, sans-serif;
+	font-size: 18px;
+	color: white;
+}
+
+.loginTextbox {
+	width: 190px;
+	height: 20px;
+	border: 0px;
+	padding: 5px;
+	background-color: rgba(0,0,0,.4);
+	color: #a8a595;
+	font-family: 'Quantico', verdana, sans-serif;
+	font-size: 14px;
+	box-shadow: 0px 0px 5px 0px rgba(255,255,255,.1);
+}
+
+.loginSubmitButton {
+	border: 0px;
+	background: url('images/layout/loginbutton.png') 0px 0px;
+	width: 129px;
+	height: 49px;
+	color: white;
+	font-size: 18px;
+	font-family: 'Quantico', verdana, sans-serif;
+	margin: 0px;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.loginSubmitButton:hover {
+	background: url('images/layout/loginbutton.png') 0px -49px;
+	cursor: pointer;
+}
+
+.wotLogo {
+	width: 45px;
+	height: 57px;
+	position: absolute;
+	top: 12px;
+	left: 40px;
+	background-image: url('images/layout/wotlogo.png');		
+}
+
+
+.headerDiv {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	height: 130px;
+	padding-top: 100px;
+	width: 90%;
+	min-width: 990px;
+	text-align: center;
+}
+
+.logoDiv {
+	position: relative;
+	z-index: 1;
+}
+
+.logoFade {
+	width: 399px;
+	height: 399px;
+	position: absolute;
+	left: 50%;
+	top: 0px;
+	margin-left: -200px;
+	background-image: url('images/layout/logofade.png');
+	z-index: 0;
+}
+
+
+
+#logoSmall {
+	position: absolute;
+	top: 81px;
+	left: 90px;
+	width: 248px;
+	height: 66px;	
+}
+
+.bodyDiv {
+	width: 90%;
+	min-width: 990px;
+	background-color: rgba(0,0,0,.75);
+	min-height: 900px;
+	box-shadow: 0px 0px 5px 0px rgba(68,63,50, .15);
+	border: solid rgba(68,63,50,.35) 1px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+.leftMenuDiv {
+	float: left;
+	width: 175px;
+	padding: 10px;
+	min-height: 200px;
+}
+
+.rightMenuDiv {
+	float: right;
+	width: 175px;
+	padding: 10px;
+	min-height: 200px;
+}
+
+.centerContentDiv {
+	margin-left: 197px;
+	margin-right: 197px;
+	min-height: 200px;
+	padding: 10px;
+}
+
+.menuCatTitle {
+	background-image: url('images/layout/menubg.png');
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	width: 175px;
+	height: 33px;
+	font-family: 'Quantico', verdana, sans-serif;
+	font-size: 18px;
+	color: #a8a595;
+	text-align: center;
+	padding-top: 7px;
+}
+
+.menuItems {
+	padding: 0px 10px;
+	padding-top: 5px;
+	margin-bottom: 20px;
+}
+
+.wrapper {
+	height: 100%;
+	min-height: 100%;
+	height: auto !important;
+	margin-bottom: -75px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.push {
+	height: 75px;
+	position: relative;
+}
+
+.footerDiv {
+	position: relative;
+	height: 50px;
+	padding: 0px;
+	padding-top: 25px;
+	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	min-width: 100%;
+	position: relative;
+	text-align: center;
+	font-size: 11px;
+	color: white;
+}
+
+.loggedInAvatar {
+	padding-top: 6px;
+	display: inline-block;
+	width: 50px;
+	height: 67px;
+	
+}
+
+.loggedInAvatar img {
+	width: 50px;
+	height: 67px;
+	border: solid rgba(54,50,40,1) 1px;	
+}
+
+.loggedInInfo {
+	display: inline-block;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 20px;
+	vertical-align: top;
+}
+
+
+
