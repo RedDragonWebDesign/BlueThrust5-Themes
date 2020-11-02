@@ -1,0 +1,5 @@
+Files for destiny theme are located in https://github.com/RedDragonWebDesign/BlueThrust5 repository, in themes folder.
+
+Deleting here to prevent code duplication.
+
+Destiny is the default theme for BlueThrust, so it is included with the core files.
